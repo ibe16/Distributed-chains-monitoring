@@ -1,0 +1,3 @@
+To import diagram:
+1. Toolbar File/Open...
+2. Select the diagram document
