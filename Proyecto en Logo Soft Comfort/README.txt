@@ -1,0 +1,3 @@
+Para importar el diagrama: 
+	1 En el menú superior Achivo/Abrir...
+	2 Seleccionar el documento 
